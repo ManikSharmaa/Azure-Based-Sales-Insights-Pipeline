@@ -45,3 +45,8 @@ Performed a join to calculate total orders and total spend per customer.
 ![Notebook_5](https://github.com/user-attachments/assets/4923622e-33d6-43d2-98b2-e476e2561f5e)
 ![Notebook_6](https://github.com/user-attachments/assets/286d1d02-828e-4a00-8eff-c4240fcb5044)
 
+## Final Result
+
+![result](https://github.com/user-attachments/assets/de4de174-1a28-48d1-99b6-8736c57e241f)
+
+
